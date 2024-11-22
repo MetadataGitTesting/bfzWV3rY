@@ -1,0 +1,49 @@
+name: jessi.satterfield
+description: next generation
+version: 0.0.1
+author: yssgn5t8.914yjqy9@9pw8lmkl.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: jessisatterfield
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-11-22 23:15:16'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-11-22 23:15:16'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-11-22T23:15:16.057487Z'
+  name: plibMaven
+  version: 8.6.0-SNAPSHOT
+  id: '212403648'
+  createdAt: '2024-11-22T23:15:16.057487Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
